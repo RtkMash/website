@@ -125,7 +125,7 @@ video {
 .card .profile {
     width: 8rem;
     height: 8rem;
-    background-image: url("../img/profil.jpg");
+    background-image: url("../img/profil.gif");
     background-size: cover;
     background-position: center;
     border-radius: 50%;
